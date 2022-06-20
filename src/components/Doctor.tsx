@@ -60,15 +60,11 @@ const Doctor: FunctionComponent<DoctorProps> = (props) => {
                             <button 
                             className="
                                 rounded 
-                                bg-orange-500 
+                                bg-sky-900 
                                 border 
-                                border-orange-500
+                                border-white-500
                                 p-4
-                                text-sm text-white 
-                                font-bold hover:-translate-y-1 
-                                hover:scale-110 
-                                hover:bg-orange-400 
-                                hover:border-orange-400 
+                                text-sm text-white
                                 duration-300
                             "
                         >Request appointment</button>
